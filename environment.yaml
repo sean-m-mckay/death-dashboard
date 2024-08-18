@@ -1,0 +1,8 @@
+name: death-dashboard
+channels:
+ - conda-forge
+dependencies:
+ - r-base
+ - r-shiny
+ - r-ggplot2
+ - r-tidyverse

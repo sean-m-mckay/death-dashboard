@@ -1,6 +1,6 @@
-# DSCI_532_individual-assignment_seanmck
+# Death-Dashboard
 
-DSCI 532 individual-assignment for Sean McKay (seanmck)
+Originally created for the [Data Visualization II class](https://ubc-mds.github.io/course-descriptions/DSCI_532_viz-2/) as part of the UBC MDS program
 
 ## Motivation
 

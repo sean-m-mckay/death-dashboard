@@ -1,4 +1,4 @@
-# Death-Dashboard
+# death-dashboard
 
 Originally created for the [Data Visualization II class](https://ubc-mds.github.io/course-descriptions/DSCI_532_viz-2/) as part of the UBC MDS program
 
@@ -23,7 +23,7 @@ To run the **Canadian Death Dashboard** project locally on your machine, follow 
     Open your terminal, go to the desired directory, and clone the repository
 
     ```bash
-    git clone https://github.ubc.ca/MDS-2023-24/DSCI_532_individual-assignment_seanmck.git
+    git clone https://github.com/sean-m-mckay/death-dashboard
     ```
 
 2. **Navigate to the Project Directory**
@@ -31,7 +31,7 @@ To run the **Canadian Death Dashboard** project locally on your machine, follow 
     Once you've cloned the repository, switch to the project directory by running the following command in your terminal:
 
     ```bash
-    cd DSCI_532_individual-assignment_seanmck
+    cd death-dashboard
     ```
 
 3. **Create a Conda Environment**

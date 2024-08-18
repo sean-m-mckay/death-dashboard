@@ -10,7 +10,9 @@ Understanding the breakdown of mortality rates by cause and age across time allo
 
 ## App Description 
 
-The app dashboard includes 
+The app dashboard includes a chart which displays weekly deaths by cause for causes listed in the Canadian Vital Statistics Death Database, summarized and provided by statcan [here](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1310081001). Cause of death information is coded using the version of the International Classification of Diseases (ICD) in effect at the time of death. Note that the counts are provisional, rounded to the nearest multiple of 5, and may be affected by reporting delays, especially in cases where coroner's investigation is necessary (e.g. for homicides). 
+
+The app provides a line chart which allows comparative visualization of deaths over time for different causes of death. It also provides a pie chart which compares the total deaths per cause since the survey start (Jan 2010). There is options to filter by time period, disaggregate by causes of deaths, and display by province  
 
 ## Installation Instructions
 
